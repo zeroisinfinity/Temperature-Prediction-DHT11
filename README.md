@@ -1,7 +1,10 @@
 # **ESP32: Lipschitz-Delta Thermal Inference**
 
+---
 [Open Arduino and Firebase](https://colab.research.google.com/drive/1j8O1jzEzLknmcNbdoATX470SZstl63fr?usp=sharing](https://github.com/zeroisinfinity/Temperature-Prediction-DHT11/blob/main/working_temp/working_temp.ino)
+---
 [Open In Colab](https://colab.research.google.com/drive/1j8O1jzEzLknmcNbdoATX470SZstl63fr?usp=sharing)
+---
 
 ### **Project Overview**
 Implementation of a **Physics-Informed Linear Regressor** designed for recursive temperature forecasting on **ESP32 + DHT11** sensor streams. This system solves the problem of **Recursive Error Propagation** and sensor jitter by enforcing a **Lipschitz-style stability constraint** ($\delta$).
