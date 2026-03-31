@@ -1,7 +1,7 @@
 # **ESP32: Lipschitz-Delta Thermal Inference**
 
 ---
-[Open Arduino and Firebase](https://colab.research.google.com/drive/1j8O1jzEzLknmcNbdoATX470SZstl63fr?usp=sharing](https://github.com/zeroisinfinity/Temperature-Prediction-DHT11/blob/main/working_temp/working_temp.ino)
+[Open Arduino and Firebase](https://github.com/zeroisinfinity/Temperature-Prediction-DHT11/blob/main/working_temp/working_temp.ino)
 ---
 [Open In Colab](https://colab.research.google.com/drive/1j8O1jzEzLknmcNbdoATX470SZstl63fr?usp=sharing)
 ---
