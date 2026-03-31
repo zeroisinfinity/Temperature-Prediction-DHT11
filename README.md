@@ -46,5 +46,4 @@ $$ \delta^* = \text{argmin}_{\delta > 0} \left( \frac{1}{N} \sum_{i=1}^{N} |T_i 
 3. Run all cells to perform the **Tri-Point Search** and generate stability plots.
 
 ---
-**Author:** [Your Name]  
 **Level:** 3rd Year CSE Engineering Project
