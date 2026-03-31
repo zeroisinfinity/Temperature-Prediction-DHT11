@@ -1,6 +1,6 @@
 # **ESP32: Lipschitz-Delta Thermal Inference**
 
-[![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1j8O1jzEzLknmcNbdoATX470SZstl63fr?usp=sharing)
+[Open In Colab](https://colab.research.google.com/drive/1j8O1jzEzLknmcNbdoATX470SZstl63fr?usp=sharing)
 
 ### **Project Overview**
 Implementation of a **Physics-Informed Linear Regressor** designed for recursive temperature forecasting on **ESP32 + DHT11** sensor streams. This system solves the problem of **Recursive Error Propagation** and sensor jitter by enforcing a **Lipschitz-style stability constraint** ($\delta$).
@@ -46,5 +46,4 @@ $$ \delta^* = \text{argmin}_{\delta > 0} \left( \frac{1}{N} \sum_{i=1}^{N} |T_i 
 3. Run all cells to perform the **Tri-Point Search** and generate stability plots.
 
 ---
-**Author:** [Your Name]  
 **Level:** 3rd Year CSE Engineering Project
